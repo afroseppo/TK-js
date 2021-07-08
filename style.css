@@ -1,0 +1,17 @@
+box {
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: #3838FF;
+}
+.box2 {
+    display: block;
+    width: 10px;
+    height: 10px;
+    background-color: rgb(255, 56, 66);
+	float: right;
+}
+
+#clear {
+	clear: both;
+}
